@@ -6,6 +6,3 @@
 #   end
 #   return square_array
 # end
-def square_array(array)
-
-end
