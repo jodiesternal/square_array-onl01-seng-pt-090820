@@ -1,6 +1,6 @@
 def square_array(array)
   square_array = ["1","2","3"]
   square_array.each
-    puts "square array #{number} is #{.collect}"
+    puts "array #{number} is #{.collect}"
 
 end
